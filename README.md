@@ -5,7 +5,7 @@ This project uses a combination of classical time series techniques and machine 
 * Model date: March 2025
 * Model version: 1.0
 * License: MIT
-* Model implementation:
+* Model implementation: https://github.com/Robert214-sudo/Sales-Forecasting/blob/main/Untitled.ipynb
 ## Intended Use
 
 - **Primary intended use:**  
